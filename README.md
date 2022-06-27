@@ -1,1 +1,12 @@
-# Excel-projects
+# Excel-Dashboard
+
+steps :
+
+1)Removed 26 duplicated data from the datasets.
+2)Created new worksheet 
+3)Renamed column values in the marital status and gender into more understandable names.
+4)New column named Age Bracket is created.
+5)Converted data into tables.
+6)Created Pivot Tables.
+7)Created dashboards from the pivot tables.
+
